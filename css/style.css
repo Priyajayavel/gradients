@@ -1,0 +1,26 @@
+
+#linear{
+	background-image:linear-gradient(to bottom,#2700ff9e,#ffff008c),url("../images/1.jpg");
+	width:80%;
+	height:500px;
+	background-size:cover;
+}
+
+#gradient{
+	background-image:linear-gradient(to left,#00ff891f,#e91e6352),url("../images/2.jpg");
+	width:80%;
+	height:500px;
+	background-size:cover;
+}
+#gradient-1{
+	background-image:linear-gradient(to right,#fff70096,#03a9f4bf),url("../images/3.jpg");
+	width:80%;
+	height:500px;
+	background-size:cover;
+}
+#linear-1{
+	background-image:linear-gradient(to top,#4caf502e,#9c27b075),url("../images/4.jpg");
+	width:80%;
+	height:500px;
+	background-size:cover;
+}
